@@ -244,7 +244,7 @@ nav {
   height: 4.7rem;
   background: url("./images/wave-small-reversed.png") center no-repeat;
   background-size: cover;
-    background-color: red;
+/*     background-color: red; */
   /* background: url('./images/wave-small-reversed.png') center no-repeat;
     background-size: cover; */
 }
@@ -308,7 +308,7 @@ footer {
     background: url("images/wave-medium.png");
     background-size: cover;
   }
-  .testimonial::before {
+  .testimonials::before {
     height: 9.4rem;
     background: url("images/wave-medium-reversed.png");
     background-size: cover;
@@ -377,8 +377,8 @@ footer {
         background: url("images/wave-large.png");
         background-size: cover;
       }
-      .testimonial::before {
-        height: 22.7rem;
+      .testimonials::before {
+        height: 20.7rem;
         background: url("images/wave-large-reversed.png");
         background-size: cover;
       }
